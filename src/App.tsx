@@ -1,8 +1,8 @@
 import React from 'react';
 
 import { Route } from 'react-router-dom';
-import Home from './components/Home';
-import Contact from './components/Contact';
+import Home from './pages/Home';
+import Contact from './pages/Contact';
 
 import { NavMenu } from './components/NavBar';
 import { GlobalStyle } from './styles/GlobalStyle';
